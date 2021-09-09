@@ -1,7 +1,7 @@
 {
-  "name": "price-api",
-  "version": "1.0.0",
-  "description": "",
+  "name": "price-api-v2",
+  "version": "2.0.0",
+  "description": "Api para buscar carros",
   "main": "index.js",
   "dependencies": {
     "cors": "^2.8.5",
@@ -14,6 +14,10 @@
   "scripts": {
     "start": "node src/index.js"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Leonardo D'Avila e atualizado por Vinícius Dias",
+  "license": "MIT",
+  "engines": {
+    "node": "12.22.6"
+  }
+
 }
